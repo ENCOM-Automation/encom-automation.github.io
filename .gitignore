@@ -6,8 +6,17 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+# Generated types
+.astro/
+
+# MacOS-specific files
+.DS_Store
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Jetbrains setting folder
+.idea/
 
 # Runtime data
 pids
@@ -69,6 +78,7 @@ web_modules/
 .env
 .env.*
 !.env.example
+.env.production
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
