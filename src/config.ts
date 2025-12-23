@@ -8,20 +8,20 @@ export const siteConfig = {
   // ============================================
   site: {
     name: 'ENCOM Automation',
-    title: 'ENCOM Automation - Intelligent Automation for Modern Teams',
+    title: 'ENCOM Automation | Expertos en Automatización con IA y n8n',
     description:
-      'Transform your business with autonomous AI agents. Automate workflows, integrate seamlessly, and scale effortlessly. Start free today.',
+      'Ahorra +500h al mes con agentes de IA autónomos y flujos de trabajo inteligentes. En ENCOM Automation eliminamos el error humano y escalamos tu operativa 24/7. Solicita tu auditoría.',
     keywords:
-      'AI agents, automation, workflow automation, AI platform, business automation',
+      'n8n expert, consultoría automatización, automatización de procesos IA, agentes autónomos para empresas, Make automation, ahorro de costes operativos, optimización flujos de trabajo, integración sistemas empresariales, automatización tareas repetitivas, soluciones IA personalizadas, eficiencia operativa con IA',
     email: 'lautaro.rojas02@gmail.com',
 
     // Open Graph / Twitter
-    ogTitle: 'AI Agent Platform - Intelligent Automation',
+    ogTitle: 'ENCOM Automation - Automatización Inteligente 24/7',
     ogDescription:
-      'Transform your business with autonomous AI agents that work 24/7',
+      'Elimina las tareas manuales y escala tu empresa con ecosistemas de IA. Mira cómo ahorramos +500h al mes a nuestros clientes.',
     twitterCard: 'summary_large_image',
-    twitterTitle: 'ENCOM Automation',
-    twitterDescription: 'Intelligent automation for modern teams',
+    twitterTitle: 'ENCOM Automation | Expertos en IA y n8n',
+    twitterDescription: 'Agentes de IA y automatización de flujos críticos para empresas modernas.',
   },
 
   // ============================================
