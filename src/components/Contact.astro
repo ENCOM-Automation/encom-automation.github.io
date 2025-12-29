@@ -45,6 +45,8 @@ const formspreeId = import.meta.env.PUBLIC_FORMSPREE_ID;
       >
         <form id="contactForm" class="space-y-6" action={`https://formspree.io/f/${formspreeId}`} method="POST">
           <div>
+            <input type="hidden" name="_subject" value="Nuevo mensaje de ENCOM Automation" />
+
             <label
               for="name"
               class="text-mono-black mb-2 block text-sm font-semibold"
