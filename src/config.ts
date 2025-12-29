@@ -206,38 +206,37 @@ export const siteConfig = {
   // CONTACT
   // ============================================
   contact: {
-    title: 'Start Building Today',
-    subtitle:
-      'Join thousands of teams using AI agents to automate their workflows. Get started in minutes with our free tier.',
+    title: '¿Listo para automatizar tu crecimiento?',
+    subtitle: 
+      'Agenda una auditoría gratuita y descubre cómo podemos ahorrarte más de 500 horas mensuales mediante flujos inteligentes y agentes de IA.',
     benefits: [
-      'No credit card required',
-      'Setup in under 5 minutes',
-      'Cancel anytime',
-      '24/7 customer support',
+      'Auditoría de procesos sin costo',
+      'Soluciones 100% personalizadas',
+      'Soporte técnico especializado',
+      'Enfoque total en el ROI',
     ],
     email: 'lautaro.rojas02@gmail.com',
     form: {
-      cta: 'Get Started Free',
+      cta: 'Solicitar Auditoría Gratuita',
       fields: {
         name: {
-          label: 'Full Name',
-          placeholder: 'John Doe',
+          label: 'Nombre completo',
+          placeholder: 'Ej. Juan Pérez',
           required: true,
         },
         email: {
-          label: 'Work Email',
-          placeholder: 'john@company.com',
+          label: 'Email corporativo',
+          placeholder: 'juan@empresa.com',
           required: true,
         },
         company: {
-          label: 'Company',
-          placeholder: 'Your Company Inc.',
+          label: 'Empresa / Industria',
+          placeholder: 'Tu Empresa S.A.',
           required: false,
         },
         message: {
-          label: 'What would you like to automate?',
-          placeholder: 'Tell us about your workflow and automation needs...',
-          required: false,
+          label: '¿Qué proceso te gustaría automatizar?',
+          placeholder: 'Cuéntanos brevemente sobre tu flujo de trabajo actual...',
         },
       },
     },
